@@ -50,7 +50,11 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 
 
 ## GALLERY
+Screenshots of the Voila Web Application for this Notebook:
 
+![image](https://github.com/MLeGare29/M7_CHALLENGE/assets/127421460/2ea4d4f1-a589-426b-82e3-c8080e491aa2)
+
+![image](https://github.com/MLeGare29/M7_CHALLENGE/assets/127421460/d0a78608-47d8-4973-9383-e9e439ab1e37)
 
 
 ## CONTRIBUTORS
