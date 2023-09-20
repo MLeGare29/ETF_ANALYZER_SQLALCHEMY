@@ -1,4 +1,3 @@
-### M7_CHALLENGE
 # PASSIVE INVESTING: ETF ANALYZER
 
 To display the rise of passive investing, this comprehensive Jupyter Lab Notebook builds a financial database and web application that not only analyzes a single dataframe table using the powerful SQL language, facilitated by Python's SQL toolkit, but also joins data from multiple table into one dataframe - in which the annualized and cumulative returns for the composite data will be calculated and plotted. Lastly, this Notebook employs the capabilities of the Voilà library to view this analysis on as a web application. The elements covered in this Notebook are as follows:  
